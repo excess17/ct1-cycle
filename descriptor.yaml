@@ -1,0 +1,11 @@
+code: cont-all-ref
+description: content with ct and cm
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  contentTypes:
+    - contentTypes/nss-descriptor.yaml
+  contentModels:
+    - contentModels/news-detail-descriptor.yaml
+  contents:
+    - contents/nss5-descriptor.yaml
