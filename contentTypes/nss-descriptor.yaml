@@ -1,5 +1,5 @@
-code: NWS
-name: News
+code: NSS
+name: News mutation
 status: '0'
 attributes:
   - code: date
